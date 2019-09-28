@@ -209,4 +209,7 @@ source "drivers/tee/Kconfig"
 
 source "drivers/mux/Kconfig"
 
+# Modified by HLY
+source "drivers/hello/Kconfig"
+
 endmenu
